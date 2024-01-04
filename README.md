@@ -25,7 +25,7 @@ Also, paste your data processing code inside loops or methods for the appropriat
     
 ## Used By
 
-This project is used by the following companies:
+This project is used by:
 
 - [@HitmanAlex](https://www.github.com/HitmanAlex)
 
